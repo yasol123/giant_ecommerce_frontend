@@ -1,2 +1,11 @@
-# giant_ecommerce_frontend
-Production for the front-end part using modern JavaScript framework: Vue.js with Bulma, Babel, Axios, Vuex, Vue-router and etc
+# Saving Account (Bank)
+
+Program Menus:
+A. Display the balance amount
+B. Display the number of transactions
+C. Display the interest earned for this period
+D. Make a Deposit
+E. Make a Withdrawal
+F. Add interest for this period
+G. Exit the program
+
